@@ -1,0 +1,121 @@
+{
+	"radar_sprite":{
+		"radar_scene_sprite":[
+			{
+				"name": "bg",
+				"phase": 2,
+				"urls": [
+					"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/bg2.png"
+				],
+				"index": 0
+			}, 
+			{
+				"name": "radar_pointer",
+				"phase": 2,
+				"urls": [
+					"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_pointer.png"
+				],
+				"index": 1
+			}, 
+			{
+				"name": "radar_tail2",
+				"phase": 2,
+				"urls": [
+					"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_tail2.png"
+				],
+				"index": 2
+			}, 
+			{
+				"name": "pointer_circle",
+				"phase": 2,
+				"urls": [
+					"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_radiation.png"
+				],
+				"index": 3
+			}, 
+			{
+				"name": "pointercenter",
+				"phase": 2,
+				"urls": [
+					"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/pointer_circle.png"
+				],
+				"index": 4
+			}
+		],
+		"radar_role_sprite":[
+			{
+				"url":"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_role1.png",
+				"positionX":-226,
+				"positionY":-226,
+				"name":"鹿圆"
+			},
+			{
+				"url":"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_role2.png",
+				"positionX":-226,
+				"positionY":-96,
+				"name":"蒋刚"
+			},
+			{
+				"url":"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_role3.png",
+				"positionX":-226,
+				"positionY":226,
+				"name":"范明"
+			},
+			{
+				"url":"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_role4.png",
+				"positionX":226,
+				"positionY":-226,
+				"name":"乔芳"
+			},
+			{
+				"url":"https://sf3-ttcdn-tos.pstatp.com/obj/ttfe/union/playable/remote_res/projects/socialradar/newres2/textures/radar_role5.png",
+				"positionX":60,
+				"positionY":220,
+				"name":"石平"
+			}
+		]
+	},
+	"scrolltxts":[
+		{
+			"txt": "路远 和 江阳 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		},
+		{
+			"txt": "小石 和 小丽 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}, 
+		{
+			"txt": "大远 和 江阳 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}, 
+		{
+			"txt": "翠花 和 丽丽 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}, 
+		{
+			"txt": "凯文 和 倩倩 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}, 
+		{
+			"txt": "皮特 和 瑞雯 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}, 
+		{
+			"txt": "欧文 和 秋菊 快乐地开聊了",
+			"fontsize": 28,
+			"color": "245,128,46,255"
+		}
+	],
+	"video":[
+		{
+			"name":"开始",
+			"url":"http://v3-default.ixigua.com/f642110145191c107b0d5f29024fd105/5ea11d66/video/tos/hxsy/tos-hxsy-ve-51/8cd0652bcdba4dadae5d89be2e3333c0/?a=2012&br=0&bt=674&cr=0&cs=0&dr=0&ds=1&er=&l=2020042311445001001403820919031E74&lr=ad&qs=0&rc=M2h0OGduaHZyczMzZTYzM0ApZzs2O2dlM2U6NzM6NmY6ZmdjMi9iNW40LnBfLS00MC9zc182XzBjYl8vMjVgXmFiYzQ6Yw%3D%3D&vl=&vr="
+		}
+	]
+}
